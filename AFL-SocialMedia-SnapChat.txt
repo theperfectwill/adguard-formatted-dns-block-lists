@@ -8,7 +8,6 @@
 ||aws-cf.api.snapchat.com^$important
 ||aws.duplex.snapchat.com^$important
 ||aws-proxy-gcp.api.snapchat.com^$important
-||bitmoji.api.snapchat.com^$important
 ||chat-gateway-prod.chat.snapchat.com^$important
 ||click.snapchat.com^$important
 ||direct-response-gcp.api.snapchat.com^$important
@@ -48,7 +47,6 @@
 ||us-east1-aws.api.snapchat.com^$important
 ||us-east1-aws-cf.api.snapchat.com^$important
 ||us-east1-aws.gateway.snapchat.com^$important
-||us-east-1-bitmoji.api.snapchat.com^$important
 ||us-east4-gcp.api.snapchat.com^$important
 ||us-east4-gcp-ineg.api.snapchat.com^$important
 ||webattachments.snapchat.com^$important

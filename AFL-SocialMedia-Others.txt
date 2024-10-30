@@ -1,2 +1,4 @@
 # SocialMedia Others
 ||allotalk.com^$important
+# ||bitmoji.api.snapchat.com^$important
+# ||us-east-1-bitmoji.api.snapchat.com^$important
