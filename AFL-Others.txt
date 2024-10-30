@@ -1,0 +1,5 @@
+# Others Custom
+||sentry.io^$important
+
+#Others General
+||pinpages.alwaysdata.net^$important
