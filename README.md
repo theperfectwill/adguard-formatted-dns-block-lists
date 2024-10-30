@@ -8,8 +8,11 @@ Copy and paste any of these links into your AdGuard app.
 ### Links
 #### (links subject to be added to when needed)
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Adult.txt
+
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-FakeNews.txt
+
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Gambling.txt
+
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Clubhouse.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Dating.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Facebook.txt
@@ -25,6 +28,7 @@ https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/hea
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Tumblr.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-TwitterX.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-WhatsApp.txt
+
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Trackers.txt
 
 ### @ToDo
