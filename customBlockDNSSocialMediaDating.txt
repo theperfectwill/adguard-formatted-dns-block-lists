@@ -1,0 +1,35 @@
+# DateMeme
+||datememe.com^$important
+||www.datememe.com^$important
+||admin.datememe.com^$important
+||blog.datememe.com^$important
+||bn.datememe.com^$important
+||c1.datememe.com^$important
+||c2.datememe.com^$important
+||c3.datememe.com^$important
+||de.datememe.com^$important
+||en.datememe.com^$important
+||es.datememe.com^$important
+||fr.datememe.com^$important
+||hi.datememe.com^$important
+||id.datememe.com^$important
+||ja.datememe.com^$important
+||jv.datememe.com^$important
+||ko.datememe.com^$important
+||pt.datememe.com^$important
+||ru.datememe.com^$important
+||th.datememe.com^$important
+||vi.datememe.com^$important
+||zh-cn.datememe.com^$important
+# Dating Sites
+||tinder.com^$important
+||bumble.com^$important
+||badoo.com^$important
+||okcupid.com^$important
+||hinge.co^$important
+||coffeemeetsbagel.com^$important
+||happn.com^$important
+||weareher.com^$important
+||clover.co^$important
+||pof.com^$important
+||match.com^$important

@@ -1,0 +1,9 @@
+# Clubhouse
+||joinclubhouse.com^$important
+||www.joinclubhouse.com^$important
+||welcome.joinclubhouse.com^$important
+||community.joinclubhouse.com^$important
+||staging.joinclubhouse.com^$important
+||admin-staging.joinclubhouse.com^$important
+||ios.joinclubhouse.com^$important
+||testflight.joinclubhouse.com^$important
