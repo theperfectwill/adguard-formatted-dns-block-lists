@@ -1,4 +1,4 @@
-# Whatsapp
+# WhatsApp
 ||account.whatsapp.com^$important
 ||alpha.whatsapp.com^$important
 ||api.whatsapp.com^$important

@@ -1,3 +1,4 @@
+# FakeNews (for those which do Lie: Sinful Sites)
 ||100percentfedup.com^$important
 ||20minutenews.com^$important
 ||21stcenturywire.com^$important
