@@ -13,8 +13,9 @@ https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/hea
 
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Gambling.txt
 
+https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Dating.txt
+
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Clubhouse.txt
-https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Dating.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Facebook.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Instagram.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-LinkedIn.txt
