@@ -1751,3 +1751,6 @@
 ||zh-cn.facebook.com^$important
 ||zh-hk.facebook.com^$important
 ||zh-tw.facebook.com^$important
+||b-graph-fallback.facebook.com^$important
+||graph-fallback.facebook.com^$important
+||graph.fbpigeon.com^$important

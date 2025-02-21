@@ -181,3 +181,4 @@
 ||www-cdn.whatsapp.net^$important
 ||www.whatsapp.com^$important
 ||wwwl.whatsapp.com^$important
+||graph.whatsapp.com^$important
