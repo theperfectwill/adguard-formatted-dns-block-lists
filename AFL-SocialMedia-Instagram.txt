@@ -1,4 +1,6 @@
 # Instagram
+||instagram.com^$important
+||www.instagram.com^$important
 ||a.ns.cdninstagram.com^$important
 ||api.instagram.com^$important
 ||b.ns.cdninstagram.com^$important
@@ -72,13 +74,12 @@
 ||instagram.c10r.facebook.com^$important
 ||instagram.c10r.instagram.com^$important
 ||instagram.co^$important
-||instagram.com^$important
 ||instagram.com.br^$important
 ||instagram.de^$important
 ||instagram.fr^$important
 ||instagram.net^$important
-||instagramstatic-a.akamaihd.net^$important
 ||instagramstatic-a.akamaihd.net.edgesuite.net^$important
+||instagramstatic-a.akamaihd.net^$important
 ||l.instagram.com^$important
 ||logger.instagram.com^$important
 ||openvpn.cdninstagram.com^$important
@@ -330,13 +331,6 @@
 ||white.ish.instagram.com^$important
 ||www.cdninstagram.com^$important
 ||www.instagr.am^$important
-||www.instagram.com^$important
-||z-p15-scontent-bru2-1.cdninstagram.com^$important
-||z-p15-scontent-cdg2-1.cdninstagram.com^$important
-||z-p15-scontent-cdt1-1.cdninstagram.com^$important
-||z-p15-scontent-lhr3-1.cdninstagram.com^$important
-||z-p15-scontent-lht6-1.cdninstagram.com^$important
-||z-p15-scontent.cdninstagram.com^$important
 ||z-p4-scontent-ams3-1.cdninstagram.com^$important
 ||z-p4-scontent-ams4-1.cdninstagram.com^$important
 ||z-p4-scontent-amt2-1.cdninstagram.com^$important
@@ -358,6 +352,12 @@
 ||z-p4-scontent-otp1-1.cdninstagram.com^$important
 ||z-p4-scontent-waw1-1.cdninstagram.com^$important
 ||z-p4-scontent.cdninstagram.com^$important
+||z-p15-scontent-bru2-1.cdninstagram.com^$important
+||z-p15-scontent-cdg2-1.cdninstagram.com^$important
+||z-p15-scontent-cdt1-1.cdninstagram.com^$important
+||z-p15-scontent-lhr3-1.cdninstagram.com^$important
+||z-p15-scontent-lht6-1.cdninstagram.com^$important
+||z-p15-scontent.cdninstagram.com^$important
 ||z-p42-scontent-ams3-1.cdninstagram.com^$important
 ||z-p42-scontent-amt2-1.cdninstagram.com^$important
 ||z-p42-scontent-arn2-1.cdninstagram.com^$important

@@ -1,4 +1,6 @@
 # Snapchat
+||snapchat.com^$important
+||www.snapchat.com^$important
 ||accounts.snapchat.com^$important
 ||api-kit.snapchat.com^$important
 ||app-analytics-v2.snapchat.com^$important

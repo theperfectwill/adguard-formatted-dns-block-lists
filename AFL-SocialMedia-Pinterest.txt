@@ -1,4 +1,6 @@
 # Pinterest
+||pinterest.com^$important
+||www.pinterest.com^$important
 ||about.pinterest.com^$important
 ||accounts.pinterest.com^$important
 ||ads.pinterest.com^$important

@@ -1,3 +1,5 @@
 # Threads
+||threads.com^$important
+||www.threads.com^$important
 ||threads.net^$important
 ||www.threads.net^$important

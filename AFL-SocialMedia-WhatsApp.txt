@@ -1,4 +1,6 @@
 # WhatsApp
+||whatsapp.com^$important
+||www.whatsapp.com^$important
 ||account.whatsapp.com^$important
 ||alpha.whatsapp.com^$important
 ||api.whatsapp.com^$important

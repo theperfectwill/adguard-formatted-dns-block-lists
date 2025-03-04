@@ -1,4 +1,6 @@
 # MySpace
+||myspace.com^$important
+||www.myspace.com^$important
 ||a1-images.myspacecdn.com^$important
 ||a1.ec-images.myspacecdn.com^$important
 ||a2-images.myspacecdn.com^$important

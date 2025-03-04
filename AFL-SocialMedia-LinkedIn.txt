@@ -1,4 +1,6 @@
 # LinkedIn
+||linkedin.com^$important
+||www.linkedin.com^$important
 ||addtoprofile.linkedin.com^$important
 ||ads.linkedin.com^$important
 ||ae.linkedin.com^$important
@@ -94,7 +96,6 @@
 ||lan.sdk.linkedin.com^$important
 ||learning.linkedin.com^$important
 ||lifg.linkedin.com^$important
-||linkedin.com^$important
 ||linkedinforgood.linkedin.com^$important
 ||lists.linkedin.com^$important
 ||live.linkedin.com^$important
@@ -210,7 +211,6 @@
 ||www.imagine.linkedin.com^$important
 ||www.licdn.com^$important
 ||www.lifg.linkedin.com^$important
-||www.linkedin.com^$important
 ||www.linkedinforgood.linkedin.com^$important
 ||www.live.linkedin.com^$important
 ||www.members.linkedin.com^$important

@@ -1,4 +1,6 @@
 # Tumblr
+||tumblr.com^$important
+||www.tumblr.com^$important
 ||24.media.tumblr.com^$important
 ||25.media.tumblr.com^$important
 ||28.media.tumblr.com^$important

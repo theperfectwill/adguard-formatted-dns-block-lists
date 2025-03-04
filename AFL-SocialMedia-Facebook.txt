@@ -1,4 +1,6 @@
 # Facebook
+||facebook.com^$important
+||www.facebook.com^$important
 ||0-act.channel.facebook.com^$important
 ||0-edge-chat.facebook.com^$important
 ||0.beta.facebook.com^$important
@@ -317,6 +319,7 @@
 ||axis.m.facebook.com^$important
 ||az-az.facebook.com^$important
 ||b-api.facebook.com^$important
+||b-graph-fallback.facebook.com^$important
 ||b-graph.facebook.com^$important
 ||b-m.facebook.com^$important
 ||b-www.facebook.com^$important
@@ -366,8 +369,8 @@
 ||com0.facebook.com^$important
 ||comfytrade.m.facebook.com^$important
 ||connect.facebook.com^$important
-||connect.facebook.net^$important
 ||connect.facebook.net.edgekey.net^$important
+||connect.facebook.net^$important
 ||creative.ak.fbcdn.net^$important
 ||creators.facebook.com^$important
 ||cs-cz.facebook.com^$important
@@ -741,8 +744,8 @@
 ||external.fhfa1-1.fna.fbcdn.net^$important
 ||external.fhkg2-1.fna.fbcdn.net^$important
 ||external.fjnb1-1.fna.fbcdn.net^$important
-||external.fkul10-1.fna.fbcdn.net^$important
 ||external.fkul8-1.fna.fbcdn.net^$important
+||external.fkul10-1.fna.fbcdn.net^$important
 ||external.fmaa1-1.fna.fbcdn.net^$important
 ||external.fmex5-1.fna.fbcdn.net^$important
 ||external.fmnl10-1.fna.fbcdn.net^$important
@@ -762,9 +765,8 @@
 ||facebook.at^$important
 ||facebook.be^$important
 ||facebook.ca^$important
-||facebook.co^$important
 ||facebook.co.za^$important
-||facebook.com^$important
+||facebook.co^$important
 ||facebook.com.au^$important
 ||facebook.com.br^$important
 ||facebook.com.es^$important
@@ -858,8 +860,10 @@
 ||govrequess.facebook.com^$important
 ||govtech.m.facebook.com^$important
 ||govtrequests.facebook.com^$important
+||graph-fallback.facebook.com^$important
 ||graph-video.facebook.com^$important
 ||graph.facebook.com^$important
+||graph.fbpigeon.com^$important
 ||grupoboticario.m.facebook.com^$important
 ||h-ct-m-fbx.fbsbx.com.online-metrix.net^$important
 ||h.beta.facebook.com^$important
@@ -1028,8 +1032,8 @@
 ||profile-b-ord.xx.fbcdn.net^$important
 ||profile-b-sjc.xx.fbcdn.net^$important
 ||profile-b.xx.fbcdn.net^$important
-||profile.ak.facebook.com^$important
 ||profile.ak.facebook.com.edgesuite.net^$important
+||profile.ak.facebook.com^$important
 ||profile.ak.fbcdn.net^$important
 ||profile.xx.fbcdn.net^$important
 ||promis.facebook.com^$important
@@ -1044,8 +1048,8 @@
 ||ru-ru.facebook.com^$important
 ||rupload.facebook.com^$important
 ||s-external.ak.fbcdn.net^$important
-||s-static.ak.facebook.com^$important
 ||s-static.ak.facebook.com.edgekey.net^$important
+||s-static.ak.facebook.com^$important
 ||s-static.ak.fbcdn.net^$important
 ||s-static.facebook.com^$important
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^$important
@@ -1146,11 +1150,11 @@
 ||scontent.fapa1-1.fna.fbcdn.net^$important
 ||scontent.faqa1-1.fna.fbcdn.net^$important
 ||scontent.fbga1-1.fna.fbcdn.net^$important
-||scontent.fbkk10-1.fna.fbcdn.net^$important
-||scontent.fbkk11-1.fna.fbcdn.net^$important
 ||scontent.fbkk2-2.fna.fbcdn.net^$important
 ||scontent.fbkk2-4.fna.fbcdn.net^$important
 ||scontent.fbkk5-2.fna.fbcdn.net^$important
+||scontent.fbkk10-1.fna.fbcdn.net^$important
+||scontent.fbkk11-1.fna.fbcdn.net^$important
 ||scontent.fbma1-1.fna.fbcdn.net^$important
 ||scontent.fbna1-1.fna.fbcdn.net^$important
 ||scontent.fbom10-1.fna.fbcdn.net^$important
@@ -1193,14 +1197,14 @@
 ||scontent.fhel5-1.fna.fbcdn.net^$important
 ||scontent.fhen1-1.fna.fbcdn.net^$important
 ||scontent.fhfa1-1.fna.fbcdn.net^$important
-||scontent.fhkg10-1.fna.fbcdn.net^$important
 ||scontent.fhkg2-1.fna.fbcdn.net^$important
 ||scontent.fhkg4-2.fna.fbcdn.net^$important
+||scontent.fhkg10-1.fna.fbcdn.net^$important
 ||scontent.fiev1-1.fna.fbcdn.net^$important
-||scontent.fiev10-1.fna.fbcdn.net^$important
-||scontent.fiev11-1.fna.fbcdn.net^$important
 ||scontent.fiev6-1.fna.fbcdn.net^$important
 ||scontent.fiev8-1.fna.fbcdn.net^$important
+||scontent.fiev10-1.fna.fbcdn.net^$important
+||scontent.fiev11-1.fna.fbcdn.net^$important
 ||scontent.fisb1-1.fna.fbcdn.net^$important
 ||scontent.fisb5-1.fna.fbcdn.net^$important
 ||scontent.fjib1-1.fna.fbcdn.net^$important
@@ -1209,10 +1213,10 @@
 ||scontent.fjpa1-1.fna.fbcdn.net^$important
 ||scontent.fkgf1-1.fna.fbcdn.net^$important
 ||scontent.fkhi10-1.fna.fbcdn.net^$important
-||scontent.fkul10-1.fna.fbcdn.net^$important
-||scontent.fkul11-1.fna.fbcdn.net^$important
 ||scontent.fkul4-1.fna.fbcdn.net^$important
 ||scontent.fkul8-1.fna.fbcdn.net^$important
+||scontent.fkul10-1.fna.fbcdn.net^$important
+||scontent.fkul11-1.fna.fbcdn.net^$important
 ||scontent.fkwi10-1.fna.fbcdn.net^$important
 ||scontent.flim1-2.fna.fbcdn.net^$important
 ||scontent.flim10-1.fna.fbcdn.net^$important
@@ -1223,17 +1227,17 @@
 ||scontent.fmba1-1.fna.fbcdn.net^$important
 ||scontent.fmdc1-1.fna.fbcdn.net^$important
 ||scontent.fmea1-1.fna.fbcdn.net^$important
-||scontent.fmex10-1.fna.fbcdn.net^$important
-||scontent.fmex11-1.fna.fbcdn.net^$important
 ||scontent.fmex5-1.fna.fbcdn.net^$important
 ||scontent.fmex8-2.fna.fbcdn.net^$important
+||scontent.fmex10-1.fna.fbcdn.net^$important
+||scontent.fmex11-1.fna.fbcdn.net^$important
 ||scontent.fmga1-1.fna.fbcdn.net^$important
 ||scontent.fmia1-1.fna.fbcdn.net^$important
 ||scontent.fmla1-1.fna.fbcdn.net^$important
-||scontent.fmnl10-1.fna.fbcdn.net^$important
-||scontent.fmnl11-1.fna.fbcdn.net^$important
 ||scontent.fmnl4-4.fna.fbcdn.net^$important
 ||scontent.fmnl6-1.fna.fbcdn.net^$important
+||scontent.fmnl10-1.fna.fbcdn.net^$important
+||scontent.fmnl11-1.fna.fbcdn.net^$important
 ||scontent.fosl1-1.fna.fbcdn.net^$important
 ||scontent.fpac1-1.fna.fbcdn.net^$important
 ||scontent.fpbc1-1.fna.fbcdn.net^$important
@@ -1354,8 +1358,8 @@
 ||star.facebook.com^$important
 ||static-ak.facebook.com^$important
 ||static.ak.connect.facebook.com^$important
-||static.ak.facebook.com^$important
 ||static.ak.facebook.com.edgesuite.net^$important
+||static.ak.facebook.com^$important
 ||static.ak.fbcdn.net^$important
 ||static.facebook.com^$important
 ||static.fdel11-1.fna.fbcdn.net^$important
@@ -1454,7 +1458,6 @@
 ||ww.facebook.com^$important
 ||www.connect.facebook.net^$important
 ||www.facebook.be^$important
-||www.facebook.com^$important
 ||www.facebook.de^$important
 ||www.facebook.dk^$important
 ||www.facebook.es^$important
@@ -1477,7 +1480,6 @@
 ||www.static.ak.fbcdn.net^$important
 ||www2.facebook.com^$important
 ||wwwfacebook.com^$important
-||wwww.facebook.com^$important
 ||x.facebook.com^$important
 ||xx-fbcdn-ecmp-02-atl1.fbcdn.net^$important
 ||xx-fbcdn-ecmp-02-ord1.fbcdn.net^$important
@@ -1751,6 +1753,3 @@
 ||zh-cn.facebook.com^$important
 ||zh-hk.facebook.com^$important
 ||zh-tw.facebook.com^$important
-||b-graph-fallback.facebook.com^$important
-||graph-fallback.facebook.com^$important
-||graph.fbpigeon.com^$important

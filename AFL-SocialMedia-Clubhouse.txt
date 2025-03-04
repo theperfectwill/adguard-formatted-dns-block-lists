@@ -1,4 +1,14 @@
 # Clubhouse
+||clubhouse.com^$important
+||www.clubhouse.com^$important
+||clubhouse.com^$important
+||www.clubhouse.com^$important
+||welcome.clubhouse.com^$important
+||community.clubhouse.com^$important
+||staging.clubhouse.com^$important
+||admin-staging.clubhouse.com^$important
+||ios.clubhouse.com^$important
+||testflight.clubhouse.com^$important
 ||joinclubhouse.com^$important
 ||www.joinclubhouse.com^$important
 ||welcome.joinclubhouse.com^$important

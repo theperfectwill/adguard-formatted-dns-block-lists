@@ -1,4 +1,6 @@
 # Reddit
+||reddit.com^$important
+||www.reddit.com^$important
 ||a.thumbs.redditmedia.com^$important
 ||about.reddit.com^$important
 ||accounts.reddit.com^$important
