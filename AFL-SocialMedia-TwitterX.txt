@@ -1,8 +1,5 @@
+
 # Twitter, X
-||x.com^$important
-||www.x.com^$important
-||twitter.com^$important
-||www.twitter.com^$important
 ||0.twitter.com^$important
 ||2010.twitter.com^$important
 ||2011.twitter.com^$important
@@ -11,6 +8,7 @@
 ||2014.twitter.com^$important
 ||2015.twitter.com^$important
 ||about.twitter.com^$important
+||abs-0.twimg.com^$important
 ||abs.twimg.com^$important
 ||access.twitter.com^$important
 ||ads-api.twitter.com^$important
@@ -29,13 +27,13 @@
 ||api-0-5-0.twitter.com^$important
 ||api-1-0-0.twitter.com^$important
 ||api-2-0-0.twitter.com^$important
+||api-3-0-0.twitter.com^$important
 ||api-20-0-0.twitter.com^$important
 ||api-21-0-0.twitter.com^$important
 ||api-23-0-0.twitter.com^$important
 ||api-24-0-0.twitter.com^$important
 ||api-26-0-0.twitter.com^$important
 ||api-28-0-0.twitter.com^$important
-||api-3-0-0.twitter.com^$important
 ||api-30-0-0.twitter.com^$important
 ||api-31-0-0.twitter.com^$important
 ||api-32-0-0.twitter.com^$important
@@ -59,6 +57,7 @@
 ||api4.twitter.com^$important
 ||app.tweet.twitter.com^$important
 ||apps.twitter.com^$important
+||blog.twitter.co^$important
 ||blog.twitter.com^$important
 ||brand.twitter.com^$important
 ||business.twitter.com^$important
@@ -66,6 +65,7 @@
 ||caps.twitter.com^$important
 ||cards-dev.twitter.com^$important
 ||cards.twitter.com^$important
+||cdn.cms-twdigitalassets.com^$important
 ||cdn.syndication.twimg.com^$important
 ||cdn.syndication.twitter.com^$important
 ||click.e.twitter.com^$important
@@ -81,6 +81,7 @@
 ||dev-marketing.twitter.com^$important
 ||dev.twitter.com^$important
 ||developer.twitter.com^$important
+||developers.twitter.com^$important
 ||dnt.twimg.com^$important
 ||download.twitter.com^$important
 ||dualstack.twimg.twitter.map.fastly.net^$important
@@ -91,6 +92,7 @@
 ||engineering.twitter.com^$important
 ||events.twitter.com^$important
 ||firefox.twitter.com^$important
+||fonts.twitter.com^$important
 ||g.twimg.com^$important
 ||g2.twimg.com^$important
 ||gu.twimg.com^$important
@@ -111,6 +113,9 @@
 ||mail.twitter.com^$important
 ||marketing.twitter.com^$important
 ||media.twitter.com^$important
+||mobile.twitter.co.uk^$important
+||mobile.twitter.co^$important
+||mobile.twitter.com.au^$important
 ||mobile.twitter.com^$important
 ||music.twitter.com^$important
 ||mux.twitter.com^$important
@@ -159,18 +164,25 @@
 ||transparency.twitter.com^$important
 ||twimg.twitter.map.fastly.net^$important
 ||twimg0-0.akamaihd.net^$important
+||twitter.co.uk^$important
 ||twitter.co^$important
+||twitter.com.au^$important
 ||twitter.com^$important
 ||twitter.de^$important
 ||twitter.map.fastly.net^$important
+||twitterinc.tt.omtrdc.net^$important
 ||upload.twitter.com^$important
 ||userstream.twitter.com^$important
+||video.twimg.com^$important
 ||video.twitter.com^$important
 ||video.twitter.map.fastly.net^$important
 ||widgets.platform.twitter.com^$important
 ||widgets.twimg.com^$important
 ||www.ads-twitter.com^$important
 ||www.t.co^$important
+||www.twitter.co.uk^$important
+||www.twitter.co^$important
+||www.twitter.com.au^$important
 ||www.twitter.com^$important
 ||www.x.com^$important
 ||www2.twitter.com^$important
