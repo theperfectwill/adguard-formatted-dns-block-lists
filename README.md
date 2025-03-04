@@ -11,6 +11,7 @@ https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/hea
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Instagram.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-LinkedIn.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-TikTok.txt
+https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Youtube.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-SnapChat.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-WhatsApp.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Pinterest.txt
@@ -22,9 +23,11 @@ https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/hea
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Clubhouse.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-SocialMedia-Others.txt
 
+https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Apple.txt
+https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Marketing.txt
+https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-OnlineGames.txt
 https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Dating.txt
-
-https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Others.txt
+https://github.com/theperfectwill/adguard-formatted-dns-block-lists/raw/refs/heads/main/AFL-Custom.txt
 
 ### @ToDo
 @ToDo->add->proper readme description for possibly users
